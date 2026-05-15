@@ -1,1 +1,2 @@
-# baseDeDatosAAC
+# Pt1.5: Docker + MondoDB
+## En aquesta pràctica construirem un entorn de bases de dades NoSQL amb MongoDB executat dins contenidors Docker. Simularàs el backend d'una botiga en línia, des de la configuració de l'entorn fins a les consultes avançades.
