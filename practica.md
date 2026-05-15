@@ -1,8 +1,10 @@
+# Respostes a les preguntes teòriques - Pt1.5 MongoDB y captures
+
+## Bloc 0
+
 ![alt text](image.png)
 
 ![alt text](image-1.png)
-
-# Respostes a les preguntes teòriques - Pt1.5 MongoDB
 
 ## Bloc 1: Configuració Docker Compose
 
