@@ -3,7 +3,7 @@
 
 ### En finalitzar la pràctica el fitxer README.md haurà de permetre que qualsevol persona pugui replicar l’entorn. Contingut mínim del fitxer:
 
-### •	Títol i descripció breu del projecte
+•	Títol i descripció breu del projecte
 ### •	Prerequisits (programari i versions)
 ### •	Instruccions d'instal·lació i posada en marxa
 ### •	Estructura de fitxers
